@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yike2
+- 👋 Hi, I’m Yike Li. @yike2
 - 🌱 I’m a MSCS student in Northeastern University.
 - 📫 How to reach me: li.yike715@gmail.com
 - ✨ Language I use: python, java, c
